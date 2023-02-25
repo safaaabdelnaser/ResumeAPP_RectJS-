@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ResumeAPP_RectJS-/static/css/main.76dd07f5.css",
+    "main.js": "/ResumeAPP_RectJS-/static/js/main.be208f56.js",
+    "static/js/703.1fc5c546.chunk.js": "/ResumeAPP_RectJS-/static/js/703.1fc5c546.chunk.js",
+    "static/js/896.0f6e05f9.chunk.js": "/ResumeAPP_RectJS-/static/js/896.0f6e05f9.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ResumeAPP_RectJS-/static/js/787.1ed0c42c.chunk.js",
+    "static/media/backimage.jpg": "/ResumeAPP_RectJS-/static/media/backimage.21e9c7ff9c7c8ccb192f.jpg",
+    "index.html": "/ResumeAPP_RectJS-/index.html",
+    "main.76dd07f5.css.map": "/ResumeAPP_RectJS-/static/css/main.76dd07f5.css.map",
+    "main.be208f56.js.map": "/ResumeAPP_RectJS-/static/js/main.be208f56.js.map",
+    "703.1fc5c546.chunk.js.map": "/ResumeAPP_RectJS-/static/js/703.1fc5c546.chunk.js.map",
+    "896.0f6e05f9.chunk.js.map": "/ResumeAPP_RectJS-/static/js/896.0f6e05f9.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ResumeAPP_RectJS-/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76dd07f5.css",
+    "static/js/main.be208f56.js"
+  ]
+}
