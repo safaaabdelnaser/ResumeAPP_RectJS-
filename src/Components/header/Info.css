@@ -1,0 +1,18 @@
+.backImage {
+    background-image: url("/public/images/backimage.jpg");
+    background-color: #cccccc;
+    height: 420px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 0.9;
+  }
+  .info {
+    
+    position: absolute;
+    top: 75%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
